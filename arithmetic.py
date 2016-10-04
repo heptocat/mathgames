@@ -6,10 +6,10 @@ r.seed()
 
 a=r.randrange(10)
 b=r.randrange(10)
-c=a-b
-print("questo programma to fa ripassare le sottrazioni")
+c=a+b
+print("practice adding up with this program")
 
-print("What is", a, "-", b, "?")
+print("What is", a, "+", b, "?")
 x=c+1
 t=0
 #for i in range(4):
